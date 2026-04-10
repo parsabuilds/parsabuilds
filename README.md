@@ -1,6 +1,6 @@
 # Hey, I'm Parsa 👋
 
-CS grad → Georgia Tech MSCS. Building at the intersection of AI, security, and computer vision. Hackathon winner.
+CS grad (almost) → Georgia Tech MSCS. Building at the intersection of AI, security, and computer vision. Hackathon winner.
 
 ## What I've Built
 
