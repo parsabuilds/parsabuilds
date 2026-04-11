@@ -4,7 +4,7 @@ CS grad (almost) → Georgia Tech MSCS. Building at the intersection of AI, secu
 
 ## What I've Built
 
-- 🔧 [Handify](https://handify.site) - Contractor management platform (web + mobile) built to compete with ServiceTitan — Next.js, React Native, Supabase, Stripe
+- 🔧 [Handify](https://handify.site) - Contractor management platform (web + mobile) built to compete with ServiceTitan — Next.js, React Native, Supabase, Stripe (Repo is Private) [live](https://handify.site)
 - 🛡️ [VibeCheckMyCode.dev](https://github.com/parsabuilds/VibeCheckMyCode) - AI-powered GitHub security scanner that auto-generates fix PRs — [live](https://vibecheckmycode.dev)
 - 🏠 [HomeTogether](https://github.com/parsabuilds/HomeTogether) - Real estate platform with guided workflows for agents and buyers — [live](https://hometogether.app)
 - 🏋️ [LiftMate](https://github.com/parsabuilds/LiftMate) - Offline-first PWA for workout tracking, progressive overload, and nutrition [live](https://liftmate.fit)
