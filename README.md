@@ -11,5 +11,5 @@ CS grad (almost) → Georgia Tech MSCS. Doing my best at building things that pe
 - 💰 [BudgetBuddy](https://github.com/parsabuilds/BudgetBuddy) - Personal finance tracker for college students with budgets, charts, and alerts [live](https://budgetbuddy.vip)
 - 🚦 [SP-104 Red](https://github.com/SP104-Traffic-Red/RealTimeTrafficDetection-SP104-Red-) - Real-time traffic detection with YOLOv8 fine-tuned on BDD100K  [live](https://youtu.be/7B6b32moDCU)
 - 🏗️ [USArchiTech](https://github.com/parsabuilds/USArchitech) - Business website for an Atlanta architecture firm; Astro + Netlify [live](https://usarchitech.netlify.app/))
-- 🎗️ [CancerBounder](repo-link) - AI-powered cancer risk assessment with personalized screening and lifestyle recommendations [live](https://cancerbouncer.com)
+- 🎗️ [CancerBounder](https://github.com/parsabuilds/CancerBouncer) - AI-powered cancer risk assessment with personalized screening and lifestyle recommendations [live](https://cancerbouncer.com)
 - 💻 [NeetCode Submissions](https://github.com/parsabuilds/neetcode-submissions-parsabuilds) - DSA solutions in Java
