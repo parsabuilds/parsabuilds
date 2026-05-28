@@ -8,10 +8,13 @@ CS grad (almost) → Georgia Tech MSCS. Doing my best at building things that pe
 - 🛡️ [VibeCheckMyCode.dev](https://github.com/parsabuilds/VibeCheckMyCode) - AI-powered GitHub security scanner that auto-generates fix PRs — [live](https://vibecheckmycode.dev)
 - 🏠 [HomeTogether](https://github.com/parsabuilds/HomeTogether) - Real estate platform with guided workflows for agents and buyers — [live](https://hometogether.app)
 - 🏋️ [LiftMate](https://github.com/parsabuilds/LiftMate) - Offline-first PWA for workout tracking, progressive overload, and nutrition [live](https://liftmate.fit)
+- 💸 [SplitTheCheck](https://github.com/parsabuilds/SplitTheCheck) - Tiny PWA for splitting shared group expenses in real time — [live](https://splitthecheck.site)
+- 💼 [ParsaRajabi](https://github.com/parsabuilds/ParsaRajabi) - Personal brand and studio website; Astro + Tailwind static site — [live](https://parsarajabi.com)
 - 💰 [BudgetBuddy](https://github.com/parsabuilds/BudgetBuddy) - Personal finance tracker for college students with budgets, charts, and alerts [live](https://budgetbuddy.vip)
 - 🚦 [SP-104 Red](https://github.com/SP104-Traffic-Red/RealTimeTrafficDetection-SP104-Red-) - Real-time traffic detection with YOLOv8 fine-tuned on BDD100K  [live](https://sp104-traffic-red.github.io/RealTimeTrafficDetection/index)
 - 🏗️ [USArchiTech](https://github.com/parsabuilds/USArchitech) - Business website for an Atlanta architecture firm; Astro + Netlify [live](https://usarchitech.com/))
 - 🎗️ [CancerBouncer](https://github.com/parsabuilds/CancerBouncer) - AI-powered cancer risk assessment with personalized screening and lifestyle recommendations [live](https://cancerbouncer.com)
+- 🍎 [MacroMate](https://github.com/parsabuilds/MacroMate) - Nutrition tracker and meal planner powered by Cloudflare Workers — [live](https://macromateee.netlify.app)
 - 💻 [NeetCode Submissions](https://github.com/parsabuilds/neetcode-submissions-parsabuilds) - DSA solutions in Java
 - 📊 [Portfolio Risk Balancing](https://github.com/parsabuilds/portfolio-risk-balancing) - Five AI strategies (rule-based, fuzzy, mean-variance, CSP+search, genetic) compared on a 10-asset portfolio including Bitcoin [See Report](https://github.com/parsabuilds/portfolio-risk-balancing/blob/main/report/Report_ParsaRajabi.pdf)
 - ⚙️ [YOLOv8 Scheduling Simulator](https://github.com/parsabuilds/yolov8-cpu-scheduling-simulator) - Compares FCFS, SJF, RR, EDF, and Rate-Monotonic on a multi-stream YOLOv8 inference workload [See Report](https://github.com/parsabuilds/yolov8-cpu-scheduling-simulator/blob/main/report/Report_ParsaRajabi.pdf) 
