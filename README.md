@@ -27,3 +27,4 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 - 💼 [ParsaRajabi](https://github.com/parsabuilds/ParsaRajabi) - Personal brand and studio website; Astro + Tailwind static site — [live](https://parsarajabi.com)
 - 🏗️ [USArchiTech](https://github.com/parsabuilds/USArchitech) - Business website for an Atlanta architecture firm; Astro + Netlify [live](https://usarchitech.com/)
 - 💻 [NeetCode Submissions](https://github.com/parsabuilds/neetcode-submissions-parsabuilds) - DSA solutions in Java
+- 🔨 [DreamBuildersUSA](https://github.com/parsabuilds/DreamBuildersUSA.com) - Business website for a residential construction & renovation company; static WordPress rebuild + Netlify [live](https://dreambuildersusa.com)
