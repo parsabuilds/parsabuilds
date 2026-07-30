@@ -16,8 +16,8 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 ### 🤖 AI / Machine Learning
 
 - 🧠 [The Lineage](https://github.com/parsabuilds/DeepLearningConceptsSimulation) - A 3D museum of deep learning — 14 interactive stations from the neuron to the Transformer — [live](https://parsabuilds.github.io/DeepLearningConceptsSimulation/)
-- 🛡️ [VibeCheckMyCode.dev](https://github.com/parsabuilds/VibeCheckMyCode) - AI-powered GitHub security scanner that auto-generates fix PRs — [live](https://vibecheckmycode.dev)
 - 🚦 [SP-104 Red](https://github.com/SP104-Traffic-Red/RealTimeTrafficDetection-SP104-Red-) - Real-time traffic detection with YOLOv8 fine-tuned on BDD100K  [live](https://sp104-traffic-red.github.io/RealTimeTrafficDetection/index)
+- 🛡️ [VibeCheckMyCode.dev](https://github.com/parsabuilds/VibeCheckMyCode) - AI-powered GitHub security scanner that auto-generates fix PRs — [live](https://vibecheckmycode.dev)
 - 🎗️ [CancerBouncer](https://github.com/parsabuilds/CancerBouncer) - AI-powered cancer risk assessment with personalized screening and lifestyle recommendations [live](https://cancerbouncer.com)
 - 📊 [Portfolio Risk Balancing](https://github.com/parsabuilds/portfolio-risk-balancing) - Five AI strategies (rule-based, fuzzy, mean-variance, CSP+search, genetic) compared on a 10-asset portfolio including Bitcoin [See Report](https://github.com/parsabuilds/portfolio-risk-balancing/blob/main/report/Report_ParsaRajabi.pdf)
 - ⚙️ [YOLOv8 Scheduling Simulator](https://github.com/parsabuilds/yolov8-cpu-scheduling-simulator) - Compares FCFS, SJF, RR, EDF, and Rate-Monotonic on a multi-stream YOLOv8 inference workload [See Report](https://github.com/parsabuilds/yolov8-cpu-scheduling-simulator/blob/main/report/Report_ParsaRajabi.pdf)
