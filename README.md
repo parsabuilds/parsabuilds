@@ -10,7 +10,7 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 - 🏠 [HomeTogether](https://github.com/parsabuilds/HomeTogether) - Real estate platform with guided workflows for agents and buyers — [live](https://hometogether.app)
 - 🏋️ [LiftMate](https://github.com/parsabuilds/LiftMate) - Offline-first PWA for workout tracking, progressive overload, and nutrition [live](https://liftmate.fit)
 - 💸 [SplitTheCheck](https://github.com/parsabuilds/SplitTheCheck) - Tiny PWA for splitting shared group expenses in real time — [live](https://splitthecheck.site)
-- 💰 [BudgetBuddy](https://github.com/parsabuilds/BudgetBuddy) - Personal finance tracker for college students with budgets, charts, and alerts [live](https://budgetbuddy.vip)
+- 💰 [BudgetBuddy](https://github.com/parsabuilds/BudgetBuddy) - Personal finance tracker for college students with budgets, charts, and alerts [live](https://budgetbuddy.parsarajabi.com)
 - 🍎 [MacroMate](https://github.com/parsabuilds/MacroMate) - Nutrition tracker and meal planner powered by Cloudflare Workers — [live](https://macromateee.netlify.app)
 
 ### 🤖 AI / Machine Learning
