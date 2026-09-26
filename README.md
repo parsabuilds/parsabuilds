@@ -6,7 +6,7 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 
 ### 🚀 Products & Web Apps
 
-- 🔧 [Handify](https://handify.site) - Contractor management platform (web + mobile) built to compete with ServiceTitan — Next.js, React Native, Supabase, Stripe (Repo is Private) [live](https://handify.site)
+- 🔧 [Handify](https://handify.site) - Contractor management platform (web + mobile) built to compete with ServiceTitan — Next.js, React Native, Firebase (Repo is Private) [live](https://handify.site)
 - 🏠 [HomeTogether](https://github.com/parsabuilds/HomeTogether) - Real estate platform with guided workflows for agents and buyers — [live](https://hometogether.app)
 - 🏋️ [LiftMate](https://github.com/parsabuilds/LiftMate) - Offline-first PWA for workout tracking, progressive overload, and nutrition [live](https://liftmate.fit)
 - 💸 [SplitTheCheck](https://github.com/parsabuilds/SplitTheCheck) - Tiny PWA for splitting shared group expenses in real time — [live](https://splitthecheck.site)
