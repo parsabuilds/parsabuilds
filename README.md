@@ -25,6 +25,7 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 
 ### 🌐 Websites & Fundamentals
 
+- 💇‍♀️ [Maha Beauty Salon](https://mahahairsalon.com/) - Business website for a hair colorist in Alpharetta; scrolling lifts the hair from dark to blonde, plus real before-and-afters and a tap-to-try shade picker; static HTML/CSS/JS + Netlify (Repo is Private) [live](https://mahahairsalon.com/)
 - 💼 [ParsaRajabi](https://github.com/parsabuilds/ParsaRajabi) - Personal brand and studio website; Astro + Tailwind static site — [live](https://parsarajabi.com)
 - 🏗️ [USArchiTech](https://usarchitech.com/) - Business website for an Atlanta architecture firm; Astro + Netlify (Repo is Private) [live](https://usarchitech.com/)
 - 💻 [NeetCode Submissions](https://github.com/parsabuilds/neetcode-submissions-parsabuilds) - DSA solutions in Java
