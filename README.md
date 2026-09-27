@@ -6,12 +6,13 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 
 ### 🚀 Products & Web Apps
 
+- ⚡ [PullPermits.ai](https://pullpermits.ai) - AI agent that pulls electrical permits for Georgia contractors: drafts the application, files it with the right city or county, and books the inspection — Next.js, Supabase, Temporal, Claude API (Repo is Private) [live](https://pullpermits.ai)
 - 🔧 [Handify](https://handify.site) - Contractor management platform (web + mobile) built to compete with ServiceTitan — Next.js, React Native, Firebase (Repo is Private) [live](https://handify.site)
 - 🏠 [HomeTogether](https://github.com/parsabuilds/HomeTogether) - Real estate platform with guided workflows for agents and buyers — [live](https://hometogether.app)
 - 🏋️ [LiftMate](https://github.com/parsabuilds/LiftMate) - Offline-first PWA for workout tracking, progressive overload, and nutrition [live](https://liftmate.fit)
-- 💸 [SplitTheCheck](https://github.com/parsabuilds/SplitTheCheck) - Tiny PWA for splitting shared group expenses in real time — [live](https://splitthecheck.site)
+- 💸 [SplitTheCheck](https://splitthecheck.site) - Tiny PWA for splitting shared group expenses in real time (Repo is Private) [live](https://splitthecheck.site)
 - 💰 [BudgetBuddy](https://github.com/parsabuilds/BudgetBuddy) - Personal finance tracker for college students with budgets, charts, and alerts [live](https://budgetbuddy.parsarajabi.com)
-- 🍎 [MacroMate](https://github.com/parsabuilds/MacroMate) - Nutrition tracker and meal planner powered by Cloudflare Workers — [live](https://macromateee.netlify.app)
+- 🍎 [MacroMate](https://macromate.parsarajabi.com) - Nutrition tracker and meal planner; paste a YouTube or Instagram recipe and AI pulls out the ingredients and macros — React, Firebase, Gemini (Repo is Private) [live](https://macromate.parsarajabi.com)
 
 ### 🤖 AI / Machine Learning
 
@@ -26,7 +27,7 @@ CS grad → Georgia Tech MSCS. Doing my best at building things that people migh
 ### 🌐 Websites & Fundamentals
 
 - 💇‍♀️ [Maha Beauty Salon](https://mahahairsalon.com/) - Business website for a hair colorist in Alpharetta; scrolling lifts the hair from dark to blonde, plus real before-and-afters and a tap-to-try shade picker; static HTML/CSS/JS + Netlify (Repo is Private) [live](https://mahahairsalon.com/)
-- 💼 [ParsaRajabi](https://github.com/parsabuilds/ParsaRajabi) - Personal brand and studio website; Astro + Tailwind static site — [live](https://parsarajabi.com)
+- 💼 [ParsaRajabi](https://parsarajabi.com) - Personal brand and studio website; Astro + Tailwind static site (Repo is Private) [live](https://parsarajabi.com)
 - 🏗️ [USArchiTech](https://usarchitech.com/) - Business website for an Atlanta architecture firm; Astro + Netlify (Repo is Private) [live](https://usarchitech.com/)
 - 💻 [NeetCode Submissions](https://github.com/parsabuilds/neetcode-submissions-parsabuilds) - DSA solutions in Java
 - 🔨 [DreamBuildersUSA](https://dreambuildersusa.com) - Business website for a residential construction & renovation company; static WordPress rebuild + Netlify (Repo is Private) [live](https://dreambuildersusa.com)
